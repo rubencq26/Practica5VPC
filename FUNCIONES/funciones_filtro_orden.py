@@ -2,6 +2,7 @@ import numpy as np
 import cv2
 from enum import Enum
 
+
 class OpcionRelleno(Enum):
     REPLICATE = 0
     REFLECT = 1
